@@ -1,0 +1,18 @@
+﻿<Window x:Class="CrudPessoas.Apresentacao.frmCadastro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrudPessoas.Apresentacao"
+        mc:Ignorable="d"
+        Title="Cadastro" Height="242" Width="587">
+    <Grid Margin="0,0,0,9">
+        <TextBox x:Name="txbNome" HorizontalAlignment="Left" Margin="111,38,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="400" Height="28"/>
+        <Label x:Name="lblNome" Content="Nome" HorizontalAlignment="Left" Margin="52,38,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbRg" HorizontalAlignment="Left" Margin="111,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100" Height="28"/>
+        <Label x:Name="lblRg" Content="Rg" HorizontalAlignment="Left" Margin="52,88,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbCpf" HorizontalAlignment="Left" Margin="111,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100" Height="28"/>
+        <Label x:Name="lblCpf" Content="CPF" HorizontalAlignment="Left" Margin="52,138,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="410,138,0,0" VerticalAlignment="Top" Width="101" Height="28" Click="btnCadastrar_Click"/>
+    </Grid>
+</Window>
