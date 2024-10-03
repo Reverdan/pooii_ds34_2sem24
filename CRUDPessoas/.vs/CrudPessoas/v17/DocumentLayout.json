@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Desktop\\CRUDPessoas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|c:\\users\\rever\\desktop\\crudpessoas\\crudpessoas\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|solutionrelative:crudpessoas\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|c:\\users\\rever\\desktop\\crudpessoas\\crudpessoas\\apresentacao\\frmpee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|solutionrelative:crudpessoas\\apresentacao\\frmpee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|c:\\users\\rever\\desktop\\crudpessoas\\crudpessoas\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|solutionrelative:crudpessoas\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|c:\\users\\rever\\desktop\\crudpessoas\\crudpessoas\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|solutionrelative:crudpessoas\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{036D8096-CC9D-45B6-98DD-A974A8D46A95}|CrudPessoas\\CrudPessoas.csproj|c:\\users\\rever\\desktop\\crudpessoas\\crudpessoas\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,19 +46,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmPEE.xaml",
               "DocumentMoniker": "C:\\Users\\Rever\\Desktop\\CRUDPessoas\\CrudPessoas\\Apresentacao\\frmPEE.xaml",
               "RelativeDocumentMoniker": "CrudPessoas\\Apresentacao\\frmPEE.xaml",
               "ToolTip": "C:\\Users\\Rever\\Desktop\\CRUDPessoas\\CrudPessoas\\Apresentacao\\frmPEE.xaml",
               "RelativeToolTip": "CrudPessoas\\Apresentacao\\frmPEE.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-14T00:18:15.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T00:18:15.883Z"
             },
             {
               "$type": "Document",
@@ -69,8 +68,7 @@
               "ToolTip": "C:\\Users\\Rever\\Desktop\\CRUDPessoas\\CrudPessoas\\Apresentacao\\frmCadastro.xaml",
               "RelativeToolTip": "CrudPessoas\\Apresentacao\\frmCadastro.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-30T22:55:06.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T22:55:06.623Z"
             },
             {
               "$type": "Document",
@@ -82,18 +80,17 @@
               "RelativeToolTip": "CrudPessoas\\Modelo\\Validacao.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:21:58.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T00:21:58.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PessoaDAO.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Desktop\\CRUDPessoas\\CrudPessoas\\DAL\\PessoaDAO.cs",
               "RelativeDocumentMoniker": "CrudPessoas\\DAL\\PessoaDAO.cs",
               "ToolTip": "C:\\Users\\Rever\\Desktop\\CRUDPessoas\\CrudPessoas\\DAL\\PessoaDAO.cs",
               "RelativeToolTip": "CrudPessoas\\DAL\\PessoaDAO.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAACYAAAA1AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T00:22:14.655Z",
               "EditorCaption": ""
@@ -108,12 +105,11 @@
               "RelativeToolTip": "CrudPessoas\\DAL\\Conexao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:22:23.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T00:22:23.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Controle.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Desktop\\CRUDPessoas\\CrudPessoas\\Modelo\\Controle.cs",
               "RelativeDocumentMoniker": "CrudPessoas\\Modelo\\Controle.cs",
@@ -121,8 +117,7 @@
               "RelativeToolTip": "CrudPessoas\\Modelo\\Controle.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:21:48.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T00:21:48.857Z"
             },
             {
               "$type": "Document",
@@ -134,8 +129,7 @@
               "RelativeToolTip": "CrudPessoas\\Modelo\\Pessoa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:19:01.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T00:19:01.337Z"
             },
             {
               "$type": "Document",
@@ -147,8 +141,7 @@
               "RelativeToolTip": "CrudPessoas\\Apresentacao\\frmCadastro.xaml.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAAB8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T23:29:44.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T23:29:44.678Z"
             },
             {
               "$type": "Document",
