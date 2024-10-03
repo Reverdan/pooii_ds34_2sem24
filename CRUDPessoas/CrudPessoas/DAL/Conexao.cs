@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 using System.Data.SqlClient;
 
+//Data Source=REVER-NOTE\SQLEXPRESS;Initial Catalog=CrudPessoas;Persist Security Info=True;User ID=sa;Password=***********;Encrypt=False
+//Data Source=DESKTOP-CJH0B9P;Initial Catalog=aulaADS;Persist Security Info=True;User ID=sa;Password=rever;Encrypt=False
+
 namespace CrudPessoas.DAL
 {
     public class Conexao
     {
         public static SqlConnection con = new SqlConnection();
         public static String mensagem = "";
-        public static String stringConexao = @"Data Source=DESKTOP-CJH0B9P;Initial Catalog=aulaADS;Persist Security Info=True;User ID=sa;Password=rever;Encrypt=False";
+        public static String stringConexao = @"Data Source=REVER-NOTE\SQLEXPRESS;Initial Catalog=CrudPessoas;Persist Security Info=True;User ID=sa;Password=rever;Encrypt=False";
         
         public static SqlConnection Conectar()
         {

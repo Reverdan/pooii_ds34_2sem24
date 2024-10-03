@@ -28,5 +28,11 @@ namespace CrudPessoas
             frmCadastro frmC = new frmCadastro();
             frmC.ShowDialog();
         }
+
+        private void mniPEE1_Click(object sender, RoutedEventArgs e)
+        {
+            frmPEE frmP = new frmPEE();
+            frmP.ShowDialog();
+        }
     }
 }
